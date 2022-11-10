@@ -1,5 +1,13 @@
 # TP3
 
+# Consideraciones
+
+- El resultado final no se muestra en hexadecimal ya que para poder usar el formateo de hexadecimal en printf necesitaba primero el numero como un entero pero intente de muchas manera pasarlo a entero pero ni con el tipo de dato más grande pude ya que los binarios vistos como decimales daban numeros muy grandes.
+
+- El ejecutable se obtuvo desde la maquina virtual pero por alguna razón se sale del programa al momento de mostrar los resultados, esto también le pasó a la persona que hizó el tutorial de cómo compilar archivos C en la máquina virtual. Yo cree un programa que solo mostraba un mensaje y al momento de entrar al ejecutable se salía instantaneamente.
+
+# Suplica
+
 Buen día querido y preciado monitor,
 
 ![Tweety piolin en movimiento (3)_thumb](https://user-images.githubusercontent.com/88736607/200911493-02c19418-3dde-4b9f-9c92-2fc01e378e80.gif)
