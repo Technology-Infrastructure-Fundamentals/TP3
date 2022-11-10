@@ -1,3 +1,7 @@
+// Sergio Franco Pineda
+// 202116614
+// s.francop@uniandes.edu.co
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
