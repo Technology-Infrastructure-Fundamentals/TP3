@@ -6,6 +6,8 @@
 
 - El ejecutable se obtuvo desde la maquina virtual pero por alguna razón se sale del programa al momento de mostrar los resultados, esto también le pasó a la persona que hizó el tutorial de cómo compilar archivos C en la máquina virtual. Yo cree un programa que solo mostraba un mensaje y al momento de entrar al ejecutable se salía instantaneamente.
 
+- No tengo el código dividido en dos procedimientos proque para mi es imposible escribir código no modular, además, así te es más facil calificar.
+
 # Suplica
 
 Buen día querido y preciado monitor,
