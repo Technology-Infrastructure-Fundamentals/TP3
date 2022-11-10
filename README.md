@@ -2,7 +2,7 @@
 
 # Consideraciones
 
-- El resultado final no se muestra en hexadecimal ya que para poder usar el formateo de hexadecimal en printf necesitaba primero el numero como un entero pero intente de muchas manera pasarlo a entero pero ni con el tipo de dato más grande pude ya que los binarios vistos como decimales daban numeros muy grandes.
+- El resultado final no se muestra en hexadecimal ya que para poder usar el formateo de hexadecimal en printf necesitaba primero el numero como un entero pero intenté de muchas manera pasarlo a entero pero ni con el tipo de dato más grande pude ya que los binarios vistos como decimales daban numeros muy grandes pero puedes convertir cada salida binaria en [esta](https://www.rapidtables.org/convert/number/binary-to-hex.html) página y va a dar lo mismo que los ejemplos en hexadecimal. 
 
 - El ejecutable se obtuvo desde la maquina virtual pero por alguna razón se sale del programa al momento de mostrar los resultados, esto también le pasó a la persona que hizó el tutorial de cómo compilar archivos C en la máquina virtual. Yo cree un programa que solo mostraba un mensaje y al momento de entrar al ejecutable se salía instantaneamente.
 
